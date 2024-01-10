@@ -120,8 +120,7 @@ while not quitFlag:
         print("This software will encrypt or decrypt a text message.")
         print("This software utilizes an encryption technique that, if used properly, cannot be cracked.")
         print("   Use Guide:")
-        print(
-            " - The message and the key may only contain letters, numbers, spaces, periods, exclamation marks, and question marks.")
+        print(" - The message and the key may only contain letters, numbers, spaces, periods, exclamation marks, and question marks.")
         print(" - The key must be at least as long as the message.")
         print(" - If you don't have a key, the program will generate a random key.")
         print(" - The message will be converted to upper case.")
